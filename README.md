@@ -14,4 +14,4 @@ Book Name: <br>
 <br>
 <hr>
            
-<img src="https://user-images.githubusercontent.com/43687926/188318250-7b6bbde7-c669-4543-bf83-2fb1a9e4522d.jpg" width="600px" height="600px"/>
+<img align="center" src="https://user-images.githubusercontent.com/43687926/188318250-7b6bbde7-c669-4543-bf83-2fb1a9e4522d.jpg" width="500px" height="600px"  />
