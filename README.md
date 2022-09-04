@@ -6,7 +6,7 @@ Excercise Problem Solutions. Here I'll be uploading the solutions of the problem
 <hr>
 Book Name: <br>
            { <br>
-             Programming Contest - Data Structure And Algorithm <br>
+             <p style="color: red; font-weight: bold;">Programming Contest - Data Structure And Algorithm</p> <br>
              Author: Md Mahbubul Hasan. <br>
              Software Engineer, Google, Switzerland. <br>
              Publication: Dimik <br>
