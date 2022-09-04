@@ -4,8 +4,8 @@
 Excercise Problem Solutions. Here I'll be uploading the solutions of the problems of this book.
 <br>
 <hr>
-### Book Name: <br>
-             ## Programming Contest - Data Structure And Algorithm<br>
+Book Name: <br>
+             Programming Contest - Data Structure And Algorithm<br>
              Author: Md Mahbubul Hasan. <br>
              Software Engineer, Google, Switzerland. <br>
              Publication: Dimik <br>
