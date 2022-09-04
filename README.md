@@ -1,15 +1,15 @@
 # programming_contest_series
 
 <br>
-Excercise Problem Solutions.
+Excercise Problem Solutions. Here I'll be uploading the solutions of the problems of this book.
 <br>
 <hr>
-Book Name: 
-           { 
-             Programming Contest - Data Structure And Algorithm
-             Author: Md Mahbubul Hasan. 
-             Software Engineer, Google, Switzerland.
-             Publication: Dimik
+Book Name: <br>
+           { <br>
+             Programming Contest - Data Structure And Algorithm <br>
+             Author: Md Mahbubul Hasan. <br>
+             Software Engineer, Google, Switzerland. <br>
+             Publication: Dimik <br>
            }
 
 <br>
