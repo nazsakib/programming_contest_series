@@ -6,10 +6,10 @@ Excercise Problem Solutions. Here I'll be uploading the solutions of the problem
 <hr>
 Book Name: <br>
 
-             Programming Contest - Data Structure And Algorithm<br>
-             Author: Md Mahbubul Hasan. <br>
-             Software Engineer, Google, Switzerland. <br>
-             Publication: Dimik <br>
+             Programming Contest - Data Structure And Algorithm
+             Author: Md Mahbubul Hasan. 
+             Software Engineer, Google, Switzerland. 
+             Publication: Dimik 
            
 
 <br>
